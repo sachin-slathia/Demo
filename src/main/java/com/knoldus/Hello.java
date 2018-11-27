@@ -5,5 +5,6 @@ public class Hello {
 
 
         System.out.println("Sachin");
+	System.out.println("Slathia");
     }
 }
